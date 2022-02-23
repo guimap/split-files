@@ -1,0 +1,19 @@
+{
+  "name": "splitfile",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^6.0.0-alpha.7",
+    "aws-sdk": "^2.1080.0",
+    "csv-split-stream": "^1.0.2",
+    "json2csv": "^5.0.7"
+  }
+}
